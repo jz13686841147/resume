@@ -195,7 +195,6 @@ a:hover {
     top: 190px;
     z-index: 12;
 }
-
 .index02_1 > div img:first-child {
     width: 180px;
     height: 180px;
@@ -267,7 +266,7 @@ a:hover {
 .index02_2 {
     width: 40px;
     position: absolute;
-        left: 552px;
+    left: 900px;
     top: 226px;
     z-index: 9999;
     transform: rotate(48deg);
